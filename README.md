@@ -13,10 +13,7 @@ For a better understanding of the components involved see the below diagram
 
 ## Prequisites:
 
-Node version: v18.19.0
-Terraform: v1.8.1
-Npm
-AWS CLI V2
+Node version: v18.19.0 | Terraform: v1.8.1 | NPM: 10.2.3 | AWS CLI V2: 2.15.40
 
 ## To install & run:
 
