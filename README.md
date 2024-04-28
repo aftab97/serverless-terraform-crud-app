@@ -11,7 +11,7 @@ For a better understanding of the components involved see the below diagram
 ## Diagram of the Serverless CRUD App
 ![alt text](https://github.com/aftab97/SERVERLESS-TERRAFORM-CRUD-APP/blob/main/diagram.png?raw=true)
 
-## Prequisites:
+## Prerequisite:
 
 Node version: v18.19.0 | Terraform: v1.8.1 | NPM: 10.2.3 | AWS CLI V2: 2.15.40
 
